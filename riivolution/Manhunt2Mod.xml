@@ -1,0 +1,17 @@
+<wiidisc version="1">
+	<id game="RHT">
+	</id>
+	<options>
+		<section name="Manhunt 2: AO Edition">
+			<option name="Enable AO content?">
+				<choice name="Enabled">
+					<patch id="manhunt2"/>
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="manhunt2">
+		<folder external="/mh2" recursive="false"/>
+		<folder external="/mh2" disc="/"/>
+	</patch>
+</wiidisc>
