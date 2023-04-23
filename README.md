@@ -6,6 +6,8 @@ The aim of this mod is to restore all of the changes Rockstar made, in order to 
 You will need to have a retail copy of the game (European is fully tested and working, US version hasn't been extensively tested but should work anyway), a modified Wii/vWii (yes this works on Wii U), Homebrew Channel & Riivolution. 
 Simply place the Manhunt2Mod.xml in the Riivolution folder, and the mh2 folder on the root. You should then load the mod from Riivolution, ensuring you have enabled it to work.
 
+By the way, this mod does work on Dolphin, provided you have an extracted backup of your game, so you can change the files in the correct spaces.
+
 ## How do I know the mod is working correctly?
 The Rockstar Games logo in the beginning will be that of the beta PS2 version, rather than what is present in the retail version. If you don't get this, either the mod isn't installed correctly or you deleted the stinger.bik files.
 
