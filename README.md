@@ -17,7 +17,10 @@ The Rockstar Games logo in the beginning will be that of the beta PS2 version, r
 ### -Head decaps are possible in executions and melee combat, with all weapons supporting it.
 
 ## Can you import stuff from the PC version (ie, uncensored dialog, weapons, etc)?
-This is something I am interested in doing, however, after analysing the files of both versions, particularly audio files, they are very different and would take a lot of work to import. For the moment, however, I'm focused on restoring aspects that still remain in the files, and don't require reversing files from different platforms.
+This is something I am interested in doing, however, after analysing the files of both versions, particularly audio files, they are very different and would take a lot of work to import. For the moment, however, I'm focused on restoring aspects that still remain in the files, and don't require reversing files from different platforms.#
+
+## I'm getting a black screen after enabling the mod in Riivolution...
+If you're using an SD card, it needs to be fast enough to process the files that need patching. If it's not fast enough, your game will likely crash. There are two ways of fixing this: get a new SD card that is of a faster transfer speed, or use Riivolution and install the mod using a USB drive. If you're still having issues, and you know your installation is correct, feel free to contact me on discord: Connorrr(miserable)#9485.
 
 ## Special thanks to:
 ### Assembly Community Discord server, for programming support (I am horrible with Assembly code...)
