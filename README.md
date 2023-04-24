@@ -16,6 +16,9 @@ The Rockstar Games logo in the beginning will be that of the beta PS2 version, r
 ### -Head explosions are possible in executions and melee combat, with all weapons supporting it.
 ### -Head decaps are possible in executions and melee combat, with all weapons supporting it.
 
+## Can you import stuff from the PC version (ie, uncensored dialog, weapons, etc)?
+This is something I am interested in doing, however, after analysing the files of both versions, particularly audio files, they are very different and would take a lot of work to import. For the moment, however, I'm focused on restoring aspects that still remain in the files, and don't require reversing files from different platforms.
+
 ## Special thanks to:
 ### Assembly Community Discord server, for programming support (I am horrible with Assembly code...)
 ### Ermaccer, for creating the censorship removal patch for PSP, and whose source code helped me understand exactly what needed editing (none of their source code was used).
